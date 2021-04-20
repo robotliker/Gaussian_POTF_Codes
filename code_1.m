@@ -1,6 +1,7 @@
 
 % 2020-07-08 --- Atlanta
 % 2021-03-03 --- Shanghai
+% Relaxed Optimized Illumination
 % POTF shape Given & Solve, based on numerical Matrix | least square method
 
 % settings of optical cofiguration
